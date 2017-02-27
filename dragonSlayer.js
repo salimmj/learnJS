@@ -1,11 +1,12 @@
 /*
 Project from codecademy course
+
+Slaying a dragon 
 */
 
 
 var slaying = true;
-// A bit of new math magic to calculate the odds
-// of hitting the dragon. We'll cover this soon!
+
 var youHit = Math.floor(Math.random() * 2);
 var damageThisRound = Math.floor(Math.random() * 5 + 1);
 var totalDamage = 0;
