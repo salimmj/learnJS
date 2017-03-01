@@ -43,6 +43,8 @@ function main() {
     //if u wanna do it k times when k>n gives error without next line
     k = k%n;
 
+    //lol
+
     var ka = new Array(k);
 
     for(var k0 = 0; k0 < k; k0++ ) {
